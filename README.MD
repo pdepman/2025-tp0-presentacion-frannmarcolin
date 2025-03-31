@@ -9,5 +9,5 @@ Mi legajo es el 20-877-53.
 
 Me encanta el tenis y soy de Huracán.
 
- ![Mi Foto](miFoto (1).jpeg)
+ ![Mi Foto](miFotoFM.jpg)
 
