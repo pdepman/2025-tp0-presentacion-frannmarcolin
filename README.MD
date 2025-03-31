@@ -8,6 +8,7 @@ Mi legajo es el 20-877-53.
 ## Sobre mí
 
 Me encanta el tenis y soy de Huracán.
+Actualmente trabajo en Talento Tech (GCBA).
 
  ![Mi Foto](miFotoFM.jpg)
 
